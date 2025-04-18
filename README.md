@@ -1,1 +1,1 @@
-## apemas para uso do docker
+## apenas para uso do docker
